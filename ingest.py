@@ -2,7 +2,6 @@
 Contains methods for ingesting file
 """
 import magic
-
 from PyPDF2 import PdfReader
 
 def determine_filetype(path):
