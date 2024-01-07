@@ -1,0 +1,4 @@
+.*swp
+env/
+venv/
+*pyc__pycache__
